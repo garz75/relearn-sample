@@ -1,0 +1,6 @@
+baseURL = '/'
+locale = 'en-us'
+title = 'Quick start'
+theme = 'relearn'
+relativeURLs = 'true'
+
